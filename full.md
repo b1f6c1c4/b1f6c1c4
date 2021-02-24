@@ -4,6 +4,7 @@
     - [hub-sync](https://github.com/b1f6c1c4/hub-sync) 同步你在 GitHub 上的 fork
     - [git-get](https://github.com/b1f6c1c4/git-get) 下载 GitHub 上任意 repo 的任意内容
     - [git-suir](https://github.com/b1f6c1c4/git-suir) 选择性更新 submodule
+    - [git-lad](https://github.com/b1f6c1c4/git-lad) 让 `git add` 可以处理软链接后面的文件
     - [shared-git-config](https://github.com/b1f6c1c4/shared-git-config) 多台计算机同步 `.gitconfig`
     - [git-freeze](https://github.com/b1f6c1c4/git-freeze) 将 submodule 转换为普通目录
     - [git-fancy-push](https://github.com/b1f6c1c4/git-fancy-push) 解决 `--depth=1` 以后不能 push 别的 repo 的问题
