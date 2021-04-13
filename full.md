@@ -17,6 +17,7 @@
 
 ## 包/库/插件类：实现某种独特的功能
 
+- C++: [ajnin](https://github.com/b1f6c1c4/ajnin) A Beautiful Ninja generator  有美感的 build.ninja 生成器
 - node/npm: [findbug](https://github.com/b1f6c1c4/findbug) 在只知道成/败的情况下自动寻找 Bug
 - node/npm: [jest-mongoose](https://github.com/b1f6c1c4/jest-mongoose) 简化数据库的单元测试
 - node/npm: [graphql-advanced-projection](https://github.com/b1f6c1c4/graphql-advanced-projection) 简化 GraphQL 的增删改查
